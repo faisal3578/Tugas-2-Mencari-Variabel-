@@ -1,0 +1,29 @@
+SOAL
+____________________________
+| 			   |
+| 	besar(kuda).	   |
+|	besar(sapi).	   |
+| 	besar(gajah).	   |
+| 	kecil(kelinci).	   |
+| 	kecil(tikus).	   |
+| 	cokelat(kuda).	   |
+| 	putih(sapi).	   |
+| 	abuabu(gajah).	   |
+| 	abuabu(tikus).	   |
+| 	putih(kelinci).	   |
+|			   |
+____________________________
+
+
+Penyelesaian Permasalahan Pertama
+Masalah : Putih,Besar
+Code
+________________
+soal1(X).
+
+
+penyelesaian permasalah ke Dua
+Masalah : abu-abu,Kecil
+Code
+________________
+soal2(X).
