@@ -1,4 +1,20 @@
-# Proses
+# SOAL
+| Kategori |     Nama     | 
+|----------|--------------| 
+|     besar |  kuda          | 
+|     besar |  sapi          |
+|besar|gajah|
+|kecil|tikus|
+|kecil|kelinci|
+|cokelat|kuda|
+|putih|sapi|
+|abu-abu|gajah|
+|abu-abu|tikus|
+|putih|kelinci|
+
+
+
+## Proses
 ### Soal 1
 ```
 soal1 pengambilan masalah untuk besar dan putih
